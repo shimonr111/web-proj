@@ -1,0 +1,24 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Shimon Rubin",
+            "age": 20
+        },
+        {
+            "id": 2,
+            "name": "John Doe",
+            "age": 20
+        },
+        {
+            "id": 4,
+            "name": "Yossi Cohen",
+            "age": 20
+        },
+        {
+            "id": 4,
+            "name": "Moti Levi",
+            "age": 20
+        }
+    ]
+}
